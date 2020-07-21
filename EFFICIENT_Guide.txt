@@ -1,0 +1,43 @@
+Best one for fst cnn , rccnn , faster rcnn :
+https://programmersought.com/article/4116260910/;jsessionid=2964644E15E7F23E2B302711931974F9
+https://www.kaggle.com/kishor1210/train-faster-rcnn-using-keras
+https://www.annytab.com/faster-r-cnn-object-detection-in-python/ !!!!!
+https://github.com/kentaroy47/frcnn-from-scratch-with-keras
+https://github.com/playerkk/face-py-faster-rcnn
+https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras/blob/master/frcnn_train_vgg.ipynb
+https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras/blob/master/frcnn_test_vgg.ipynb
+https://github.com/playerkk/face-py-faster-rcnn
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+https://github.com/kbardool/keras-frcnn
+https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html#fast-r-cnn
+https://github.com/curiousily/Deep-Learning-For-Hackers
+https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
+https://github.com/RomRoc/objdet_train_tensorflow_colab
+https://github.com/tryolabs/luminoth/tree/master/luminoth/models/fasterrcnn
+so imortant one :
+https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
+https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852
+https://github.com/matterport/Mask_RCNN
+https://bbs.cvmart.net/articles/257/ren-lian-shi-bie-xiang-guan-zi-yuan-da-lie-biao
+Age Detection:
+https://sefiks.com/2019/02/13/apparent-age-and-gender-prediction-in-keras/
+rcnn:
+https://github.com/ravirajsinh45/implementation_of_RCNN/blob/master/data_processing_part_1.ipynb
+Colab :
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
+https://github.com/datitran/raccoon_dataset/blob/master/generate_tfrecord.py
+MASK rcnn :
+https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
+https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/
+
+https://github.com/matterport/Mask_RCNN
+C:/Users/rzouga/Downloads/Github/CNN_CV/Face_Recognition_Fast_rcnn/TrainFacialRecognitonModel/work/work_V2
+https://github.com/matterport/Mask_RCNN
+
+face dection :
+https://sefiks.com/2018/09/03/face-recognition-with-facenet-in-keras/
+https://www.cellstrat.com/2019/12/04/face-recognition-with-mtcnn-and-facenet/
+https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn
+https://github.com/davidsandberg/facenet
+
